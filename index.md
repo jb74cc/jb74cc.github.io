@@ -8,7 +8,7 @@
 <img src="images/nyc.png?raw=true"/>
 
 ---
-[PHS Dashboard Group Project](http://https://github.com/jb74cc/rshiny_dashboard_project/)
+[PHS Dashboard Group Project](https://github.com/jb74cc/rshiny_dashboard_project/)
 <img src="images/phs.png?raw=true"/>
 
 ---
