@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[NYC bikes report](/sample_page)
+[NYC bikes report](/nyc_bikes.html)
 <img src="images/nyc.png?raw=true"/>
 
 ---
