@@ -13,7 +13,7 @@
 
 ---
 [NHS Cancer Indices](/borders_cancer.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/borders.png?raw=true"/>
 
 ---
 
