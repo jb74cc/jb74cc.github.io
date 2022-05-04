@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects
 
 [NYC bikes report](/nyc_bikes.html)
 <img src="images/nyc.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[PHS Dashboard Group Project](/)
+<img src="images/phs.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
