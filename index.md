@@ -17,13 +17,13 @@ RShiny group dashboard project undertaken as part of the Professional Data Analy
   at CodeClan in Edinburgh. Our team of 4 made the dashboard using data supplied from PHS Scotland,
   looking in to the question 'Is there a Winter Crisis in the NHS?'.
 </p>
-<img src="images/phs.png?raw=true"/>
+<a href="https://jb74cc.shinyapps.io/rshiny_dashboard_project/"><img src="images/phs.png?raw=true"/></a>
 
 ---
 [NHS Cancer Indices](/borders_cancer.html)
 <p>
 Report for a technical interview question for NHS Borders.
 </p>
-<img src="images/borders.png?raw=true"/>
+<a href="/borders_cancer.html"><img src="images/borders.png?raw=true"/></a>
 
 ---
