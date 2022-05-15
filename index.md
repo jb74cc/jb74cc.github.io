@@ -1,8 +1,6 @@
-## Portfolio
+## Recent Projects
 
 ---
-
-### Recent Projects
 
 [NYC bikes report](/nyc_bikes.html)
 <p>
