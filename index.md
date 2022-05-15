@@ -5,6 +5,11 @@
 ### Recent Projects
 
 [NYC bikes report](/nyc_bikes.html)
+<p>
+Report looks at data from citibike in NYC. 
+  The aim was to identify any insights that could be useful to 
+  citibike in terms of bikes hires across the city.
+</p>
 <img src="images/nyc.png?raw=true"/>
 
 ---
