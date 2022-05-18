@@ -2,7 +2,7 @@
 
 ---
 
-[NYC bikes report](html/nyc_bikes.html)
+[NYC bikes report](/html/nyc_bikes.html)
 <p>
 Report looks at data from citibike in NYC.
   The aim was to identify any insights that could be useful to
@@ -20,7 +20,7 @@ RShiny group dashboard project undertaken as part of the Professional Data Analy
 <a href="https://jb74cc.shinyapps.io/rshiny_dashboard_project/"><img src="images/phs.png?raw=true"/></a>
 
 ---
-[NHS Cancer Indices](html/borders_cancer.html)
+[NHS Cancer Indices](/html/borders_cancer.html)
 <p>
 Report for a technical interview question for NHS Borders.
 </p>
