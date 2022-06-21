@@ -4,7 +4,7 @@
 
 [Just Eat Cycle Hire Scheme](/pdf/just_eat_bikes.pdf)
 <p>
-Final project on the Professional Data Analysis Course at CodeClan. The project looks at the use of the cycle hire scheme in 2019 in Edinburgh. Click on the link above to view the slide presentation. To view the project on github <a href="https://github.com/jb74cc/final_project">click here</a>
+Final project on the Professional Data Analysis Course at CodeClan. The project looks at the use of the cycle hire scheme in 2019 in Edinburgh. Click on the link above to view the slide presentation. To view the project on github <a href="https://github.com/jb74cc/final_project">click here.</a>
 </p>
 <a href="https://github.com/jb74cc/final_project"><img src="images/4.png?raw=true"/></a>
 
